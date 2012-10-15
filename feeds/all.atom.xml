@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Erdenezaya's note</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2012-05-03T16:24:00+02:00</updated><entry><title>Learn english from the movie</title><link href="/2012/05/learn-english-from-the-movie.html" rel="alternate"></link><updated>2012-05-03T16:24:00+02:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2012-05-03:2012/05/learn-english-from-the-movie.html</id><summary type="html">&lt;p&gt;Англи хэлээ сайжруулах нэг арга бол хадмал орчуулгатай кино үзэх юм. Олон хүмүүс англи хэлийг Hollywood -ийн уран сайхны кино үзэнгээ суралцаж чаддаг байна.
+Дараах аргуудыг туршаад үзээрэй.&lt;/p&gt;
+&lt;p&gt;Ямар нэгэн сонирхолтой киногоо худалдан авч англи хэлний хадмал орчуулгатай нь үзнэ. Энэ үед таны чих болон нүд маш сайн ажиллана. Учир нь та зөвхөн дууг нь сонсож нүдээрээ хадмал орчуулгыг нь  гүйлгэн   уншсаар байтал кино дуусна. Та энэ алхамаар зөвхөн киноны ерөнхий утга санааг ойлгоход л болно.
+Киног англи хадмал орчуулгатай нь дахин үзнэ. Харин энэ удаад та хадмал орчуулга руу аль болох бага харахыг хичээ. Зөвхөн киноны ойлгомжгүй хэсгүүдэд хадмал орчуулгыг ашиглана.
+Энэ удаа киногоо хамдмал орчуулагагүй үзэх хэрэгтэй. Энэ маш хэцүү санагдаж магадгүй. Гэхдээ эхний 2 алхамыг хийсний дараа кино хангалттай ойлгомжтой байх болно.
+Харин та киногоо цэвэр англи хэлтэйг нь худалдан авах хэрэгтэй гэдгийг битгий мартаарай. Учир нь англи хэлийг сурахад дуудлага маш чухал байдаг. Эдгээр аргыг ашиглаж сурвал таньд англи хэлийг ойлгох маш амархан болно гэдэгт итгэлтэй байна.&lt;/p&gt;
+&lt;p&gt;Эх сурвалж: &lt;a class="reference external" href="http://kinglishschool.com"&gt;http://kinglishschool.com&lt;/a&gt;&lt;/p&gt;
+</summary><category term="english"></category></entry><entry><title>How to install Python &amp; Django on Windows</title><link href="/2011/09/how-to-install-python-django-on-windows.html" rel="alternate"></link><updated>2011-09-06T17:30:00+02:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2011-09-06:2011/09/how-to-install-python-django-on-windows.html</id><summary type="html">&lt;p&gt;Аль дээр энэ бичлэгийг оруулах санаатай байсан чинь өөр зүйлд сатаараад мартаж орхиж. Нэг хүнд миний заавар хэрэг болж надад санууллаа хэхэ. Ингээд өөрийнхөө суулгасан аргачлалаа та бүхэнтэй хуваалцахаар боллоо.&lt;/p&gt;
+&lt;p&gt;Эхний алхам:&lt;/p&gt;
+&lt;p&gt;Та дараах сайтаас python installer татаж авах хэрэгтэй.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a class="reference external" href="http://"&gt;http://&lt;/a&gt; Python.org/downloads/python2.7.1 exe&lt;/blockquote&gt;
+&lt;p&gt;Дараа нь мөн адил Django framework татна.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;&lt;a class="reference external" href="http://"&gt;http://&lt;/a&gt; Djangoproject.com/downloads&lt;/dt&gt;
+&lt;dd&gt;үүнийг татаж аваад Python суусан газартаа хуулаад задална.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Дараагийн алхам:&lt;/p&gt;
+&lt;p&gt;cmd –ийг дуудаж ажиллуулан Django.zip файлаа задалсан зам руу орно. Дараах командыг бичээрэй. Энэ бол Django суулгах команд юм.&lt;/p&gt;
+&lt;p&gt;python setup.py install&lt;/p&gt;
+&lt;p&gt;Игээд  django суулаа. Зөв суусан эсэхийг  дараах командаар шалгана. Ямар нэгэн алдаа өгөхгүй бол суусан болно&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;python&lt;/dt&gt;
+&lt;dd&gt;&amp;gt;&amp;gt; import django&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Төсөл хөгжүүлэх Editor сонгоно. Editor –ээ python &amp;amp; django project хөгжүүлэхэд бэлтгэнэ. Дараах сайтаас eclipse editor –ийг татаж авах боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.6.1-201009090800/eclipse-SDK-3.6.1-win32.zip"&gt;http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.6.1-201009090800/eclipse-SDK-3.6.1-win32.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хэрэв Eclipse editor –ийг сонгосон бол дараах нэмэлтүүдийг суулгана.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydev.org/updates"&gt;http://pydev.org/updates&lt;/a&gt;
+&lt;a class="reference external" href="http://download.aptana.org/tools/studio/plugin/update/studio/"&gt;http://download.aptana.org/tools/studio/plugin/update/studio/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Дараах команд нь төсөл болон application үүсгэнэ.&lt;/p&gt;
+&lt;p&gt;Төсөл үүсгэх команд:&lt;/p&gt;
+&lt;p&gt;python django-admin.py startproject  project_name
+Application үүсгэх команд:&lt;/p&gt;
+&lt;p&gt;Python django-admin.py startapp app_name&lt;/p&gt;
+</summary><category term="python"></category><category term="Django"></category></entry><entry><title>Эхнэртэй болон найз бүсгүйтэй эрчүүдэд зориулсан шүлэг</title><link href="/2011/08/ekhnertei-bolon-naiz-busguitei-erchuuded-zoriulsan-shuleg.html" rel="alternate"></link><updated>2011-08-04T17:30:00+02:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2011-08-04:2011/08/ekhnertei-bolon-naiz-busguitei-erchuuded-zoriulsan-shuleg.html</id><summary type="html">&lt;p&gt;Дэлбээлж байгаа цэцгийг дэмий битгий тасдаарай&lt;/p&gt;
+&lt;p&gt;Дэрвэж яваа охиныг уйлуулж битгий гомдоогоорой&lt;/p&gt;
+&lt;p&gt;Энхрий цээжийг нь дэрлээд чих тавин чагнаарай&lt;/p&gt;
+&lt;p&gt;Ээжийн охины зүрх чиний төлөө цохилж байгаа&lt;/p&gt;
+&lt;p&gt;Аавдаа ч өгөөгүй халамжийг нь асгаж битгий гомдоо&lt;/p&gt;
+&lt;p&gt;Амсаж байгаа жаргалаа эргүүлээд түүндээ өг&lt;/p&gt;
+&lt;p&gt;Хардаж чамайг зовоодоггүй ч харамлаж байгаа чамайг&lt;/p&gt;
+&lt;p&gt;Хань минь чи минийх гээд духан дээр нь зөөлөн үнс, уужирна&lt;/p&gt;
+&lt;p&gt;Хайраар бялхсан харцыг нь  чи л ганцхан мэдэрдэг&lt;/p&gt;
+&lt;p&gt;Халуун дулаан тэврэлтийг нь чи л ганцхан хүртдэг&lt;/p&gt;
+&lt;p&gt;Удам залгах үрийг чинь төрүүлж чамд  өгөх&lt;/p&gt;
+&lt;p&gt;Ухаант бүсгүй дэргэд чинь байна инээмсэглэ эр хүн та&lt;/p&gt;
+</summary><category term="poem"></category></entry><entry><title>Би хэн бэ?</title><link href="/2010/12/bi-khen-be.html" rel="alternate"></link><updated>2010-12-13T03:36:00+01:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2010-12-13:2010/12/bi-khen-be.html</id><summary type="html">&lt;p&gt;БИ ХЭН БЭ? гэж өөрөөсө асуух хүртлээ хэнч өөрийгө хайж эхлээгүй бдг… тэгээд л хайж эхэлнэ дээ. Бүх Монгол хүмүүс өөрсдийгө олох болтугай!&lt;/p&gt;
+</summary><category term="interesting"></category></entry><entry><title>Фэйсбүүкийн талаарх сонирхолтой баримт</title><link href="/2010/12/feisbuukiin-talaarkh-sonirkholtoi-barimt.html" rel="alternate"></link><updated>2010-12-13T03:36:00+01:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2010-12-13:2010/12/feisbuukiin-talaarkh-sonirkholtoi-barimt.html</id><summary type="html">&lt;p&gt;Дэлхийн хvмvvсийн хамгийн их зорчдог цєєн хэдэн сvлжээнvvдийн нэг болох Facebook-ийн талаар хvмvvсийн тэр болгон мэддэггvй, мэддэг байсан ч гэсэн мартахгvйн тулд эргэн эргэн уншмаар хамгийн сонирхолтой баримтуудын цуглуулгыг танд хvргэж байна. Бид саяхан Youtube-ийн талаарх яг ийм нийтлэлийг танд хvргэсэн билээ. Ингээд электроник, интернэтийн ачаар улам хурдацтай даяаршиж байгаа цэнхэр гаригийн оюун ухаант хvн таны мэдлэгийн сан улам єргєжин тэлэг гэсэн ерєєлєєр Facebook-ийн талаарх фактуудыг хvргэе.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;«Facebook» нь 400 сая гаруй байнгын хэрэглэгчидтэй бєгєєд сар бvр 35 сая хvн шинээр бvртгvvлдэг байна.&lt;/li&gt;
+&lt;li&gt;Сар бvр «Facebook» дээр 2,5 миллиард гэрэл зураг шинээр тавигддаг.&lt;/li&gt;
+&lt;li&gt;«Facebook»-ийн энгийн хэрэглэгч дунджаар 130 найзтай байдаг бєгєєд сард 8 шинэ найзын санал хvлээн авдаг.&lt;/li&gt;
+&lt;li&gt;Америкийн хамгийн том 500 коллежид хийсэн саяхны судалгааны дvнд, сургуульд элсvvлэх коммиссийнхны 10% нь анкет єгєгчдийн «Facebook» -ийг vзэж байж тэнцvvлэх эсэхийг нь тооцдог гэсэн сонирхолтой хариу гарчээ. Тэдний хэлснээр, єргєдєл гаргагчийн Facebook-ийг vзэсний дараагаар тvvний талаарх бодол ихэвчлэн єєрчлєгдєж байсан гэж.&lt;/li&gt;
+&lt;li&gt;«Facebook» нь сvлжээнийхээ эзэлхvvнээр «Google» - ийн дараа ордог байна. Гэхдээ энэ хоёрын байр солигдож, Facebook нь дэлхийн хамгийн их хэрэглэгддэг сvлжээ болон хувирах магадлал тун єндєр байна. Учир нь єнгєрсєн оны 3-р сард л гэхэд «Facebook»-д зочлогчсдын тоо «Google»-ээс хол давжээ.&lt;/li&gt;
+&lt;li&gt;Хэрэв «Facebook» улс байсан бол Дэлхийн хамгийн их хvн амтай гуравдах орон байх байжээ. Эхний байранд Хятад, дараа нь Энэтхэг байдгийг бид сайн мэднэ.&lt;/li&gt;
+&lt;li&gt;Пенсильваны нэгэн 39-настай эрэгтэй нь 13 настай охиныхоо биеийг vнэлvvлэх талаар зарлалыг Facebook-ээр тарааснаасаа болж шоронгийн хаалга татсан байна. Харин Небраска мужийн Омахад хот дахь сургуулийн сурагч болох 17-настай Бага Роберт Батлер нь сургуулийнхаа захирал болон орлогч захирлыг буудан хороосныхоо дараа, амиа хорлохоосоо ємнє «Facebook» дэх єєрийн профайл дээрээ эцсийн захидал буюу гэрээс маягийн юм бичсэн байдаг.&lt;/li&gt;
+&lt;li&gt;«Facebook» нь уг нь эхэндээ коллежийн оюутнуудад зориулагдан бий болж байсан бол єнєєдєр 26 наснаас дээш хэрэглэгчид тус сvлжээний нийт хэрэглэгчдийн 70% - ийг бvрдvvлж байна.&lt;/li&gt;
+&lt;li&gt;«Facebook»-ийн дундаж хэрэглэгч єдєрт ойролцоогоор 55 минутыг тус сvлжээг ашиглахад зарцуулдаг ажээ. Харин сард 25 коммент vлдээж, хvмvvсийн зурагны доор байдаг “Like” товчлуурыг сард 9 удаа дардаг байна.&lt;/li&gt;
+&lt;li&gt;«Facebook» -ийн хэрэглэгчдийн 70% нь АНУ-д байдаг.&lt;/li&gt;
+&lt;li&gt;Сири, Хятад, Вьетнам, Иран зэрэг улс орнуудад «Facebook»-ийг хориглосон байдаг. Vvн дээр нэмэгдэж, єнгєрсєн жил Узбекистаны ард тvмэн эх орныхоо нутаг дэвсгэр дээрээс энэхvv олон нийтийн харилцааны сvлжээнд нэвтрэх эрхгvй болсон байна. Vvний шалтгаан нь тухайн орны аж амьдралын дорой буурай байдлыг эсэргvvцсэн илгээмж, материалуудыг Facebook дээр нийтэлснээр эрх баригчдынх нь дургvйцлийг тєрvvлсэн явдал юм.&lt;/li&gt;
+&lt;li&gt;2008 онд «Facebook»-ийнхэн Канадын Квебек-т оршин суудаг Адам Гуэрбез гэгчийг олон сая илгээмжийг спамлан илгээснийх нь тєлєє шvvхэд єгч, 837 сая доллараар торгохыг хvсчээ. Шvvх хурал нэхэмжлэлийг хvлээн аваад зогсоогvй, хариуцагчийн тєлєх торгуулийн хэмжээнээс ганц цент ч хасаагvй байна. Энэ явдал нь иймэрхvv маягийн зєрчилд оногдож байсан хvн тєрєлхтний тvvхэн дэх хамгийн том торгууль болон тэмдэглэгджээ.&lt;/li&gt;
+&lt;li&gt;2009 оны 9 сард «Facebook»-ийн санхvvгийн vзvvvлэлт нь сая л нэг юм хасахаасаа нэмэхрvv шилжсэнийг Марк Цукерберг мэдэгджээ. Нэг vгээр хэлбэл 2009 оны 9 сард л тус сvлжээ нь ашиг олж эхэлсэн байна.&lt;/li&gt;
+&lt;li&gt;Флорида мужийн шvvхийн ёс зvйн захиргааны зєвлєлийнхєн нь шvvгчид болон ємгєєлєгчдийг хоорондоо «Facebook»-ээрээ найз болохыг нь хоригложээ.&lt;/li&gt;
+&lt;li&gt;«Facebook»-ийн сvлжээнд сvvлийн vед хамгийн олноороо нэмэгдэж байгаа нийгмийн тєлєєлєгчид бол 55-аас дээш насны эмэгтэйчvvд юм байна.&lt;/li&gt;
+&lt;li&gt;Оросын хєрєнгє оруулалтын «Digital Sky Technologies» компани нь Facebook-ийн 1,96%-ийг эзэмшихийн тулд 200 сая долларын хєрєнгє оруулалт хийжээ. Мєн єнгєрсєн жил  «Goldman Sachs» болон «DST» компаниуд нь тус сvлжээнд 500 сая доллын хєрєнгийг оруулсан байна.&lt;/li&gt;
+&lt;li&gt;Facebook-ийн бvх хэрэглэгчдэд нээлттэй байхаар тохируулсан тухайн хэрэглэгчийн профайл, зураг, нэр ус, оршин суудаг хот гэх зэрэг мэдээллvvд нь албан ёсоор хэвлэлийн материалд тооцогддог.&lt;/li&gt;
+&lt;li&gt;«Facebook»-т хєрєнгє оруулсан хамгийн эхний хvн нь 2004 онд тус сайтад 500,000 долларыг єгсєн Питер Тиль юм байна. Тэрээр PayPal-ыг vvсгэн байгуулагчдын нэг юм.&lt;/li&gt;
+&lt;li&gt;2009 оны 12 сард «Facebook» -ийн тохиргоо болон зарим зvйлс нь єєрчлєгдєх vед Цукербергийн бамбарууш тэвэрсэн цээж нvцгэн зураг нь их тvгж байжээ.&lt;/li&gt;
+&lt;li&gt;Массачусетсийн техникийн их сургуульд бvтээсэн «Gaydar» програм нь «Facebook»-ийн хэрэглэгчийн профайлнаас нь тvvнийг ижил хvйстэн эсэхийг шууд тогтоох чавартай юм байна.&lt;/li&gt;
+&lt;li&gt;Канадын IBM-ийн 20 настай ажилтан нь даатгалын компаниас авсан євчний нєхєн тєлбєрєє буцаан хураалгахад хvрчээ. Учир нь тvvний амь насны даатгал хийлгэсэн байсан тухайн даатгалын компани нь тvvний євчтэй байх ёстой байсан хугацаандаа авахуулсан аз жаргалтай гэрэл зургуудийг Facebook дээрээс нь олж харсан аж.&lt;/li&gt;
+&lt;li&gt;Австралид, гэмт хэрэгт холбогдсон хvмvvсийг шvvхэд дуудах зарланг нь «Facebook»-ээр тvгээдэг протокол vйлчилдэг юм байна.&lt;/li&gt;
+&lt;li&gt;Австралийн «Usocial» хэмээх нэгэн сайт нь хvмvvсийг Facebook дээрхи найзуудаа зарж, худалдан авахыг санал болгодог юм байна. Хэдийгээр Facebook-ийн зvгээс тус сайтыг энэ явдлаа зогсоохыг шаардсан боловч, vйл ажиллагаагаа бvрэн зогсоохгvй гэдгээ мэдэгдсэн байна.&lt;/li&gt;
+&lt;li&gt;Facebook-ийн нэгэн хэрэглэгчийн бичвэр нь эзэндээ бєєрний донор олоход нь тусалжээ.&lt;/li&gt;
+&lt;li&gt;«Facebook»-д нийт 800.000 хvн ажилладаг.&lt;/li&gt;
+&lt;/ol&gt;
+</summary><category term="facebook"></category></entry><entry><title>Google-ийн Москва дахь vлгэрийн офис саяхан нээгдлээ</title><link href="/2010/12/google-iin-moskva-dakh-vlgeriin-ofis-saiakhan-neegdlee.html" rel="alternate"></link><updated>2010-12-13T03:36:00+01:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2010-12-13:2010/12/google-iin-moskva-dakh-vlgeriin-ofis-saiakhan-neegdlee.html</id><summary type="html">&lt;p&gt;Жинхэнэ үлгэрийн юм шиг оффис байна. Манай хойхон орших Орос гvрний нийслэлд саяхан алдарт Google-ийн офис нээлтээ хийжээ. Уг барилгын загвар дизайны шийдлийг гаргахад дурын хvн саналаа єгч, хувь нэмэрээ оруулсан юм байна. Хамгийн гол нь тэд бvгд тухайн Google-ийн офисийг тэр чигээрээ Орос ахуй, орос характер ханхалсан байлгахаар их хичээсэн юм байна. Ингээд явж явж, олон хvний санаа бодол нь нийлсээр, барилга ашиглалтанд орохдоо яг л оросын дээр vеийн алдартай ардын vлгэр, хvvхэлдэйн киног шууд санагдуулахуйц болжээ.&lt;/p&gt;
+</summary><category term="google"></category><category term="awesome"></category></entry></feed>

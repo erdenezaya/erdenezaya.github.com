@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Erdenezaya's note</title><link href="/" rel="alternate"></link><link href="/feeds/Django.atom.xml" rel="self"></link><id>/</id><updated>2011-09-06T17:30:00+02:00</updated><entry><title>How to install Python &amp; Django on Windows</title><link href="/2011/09/how-to-install-python-django-on-windows.html" rel="alternate"></link><updated>2011-09-06T17:30:00+02:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2011-09-06:2011/09/how-to-install-python-django-on-windows.html</id><summary type="html">&lt;p&gt;Аль дээр энэ бичлэгийг оруулах санаатай байсан чинь өөр зүйлд сатаараад мартаж орхиж. Нэг хүнд миний заавар хэрэг болж надад санууллаа хэхэ. Ингээд өөрийнхөө суулгасан аргачлалаа та бүхэнтэй хуваалцахаар боллоо.&lt;/p&gt;
+&lt;p&gt;Эхний алхам:&lt;/p&gt;
+&lt;p&gt;Та дараах сайтаас python installer татаж авах хэрэгтэй.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a class="reference external" href="http://"&gt;http://&lt;/a&gt; Python.org/downloads/python2.7.1 exe&lt;/blockquote&gt;
+&lt;p&gt;Дараа нь мөн адил Django framework татна.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;&lt;a class="reference external" href="http://"&gt;http://&lt;/a&gt; Djangoproject.com/downloads&lt;/dt&gt;
+&lt;dd&gt;үүнийг татаж аваад Python суусан газартаа хуулаад задална.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Дараагийн алхам:&lt;/p&gt;
+&lt;p&gt;cmd –ийг дуудаж ажиллуулан Django.zip файлаа задалсан зам руу орно. Дараах командыг бичээрэй. Энэ бол Django суулгах команд юм.&lt;/p&gt;
+&lt;p&gt;python setup.py install&lt;/p&gt;
+&lt;p&gt;Игээд  django суулаа. Зөв суусан эсэхийг  дараах командаар шалгана. Ямар нэгэн алдаа өгөхгүй бол суусан болно&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;python&lt;/dt&gt;
+&lt;dd&gt;&amp;gt;&amp;gt; import django&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Төсөл хөгжүүлэх Editor сонгоно. Editor –ээ python &amp;amp; django project хөгжүүлэхэд бэлтгэнэ. Дараах сайтаас eclipse editor –ийг татаж авах боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.6.1-201009090800/eclipse-SDK-3.6.1-win32.zip"&gt;http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.6.1-201009090800/eclipse-SDK-3.6.1-win32.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Хэрэв Eclipse editor –ийг сонгосон бол дараах нэмэлтүүдийг суулгана.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydev.org/updates"&gt;http://pydev.org/updates&lt;/a&gt;
+&lt;a class="reference external" href="http://download.aptana.org/tools/studio/plugin/update/studio/"&gt;http://download.aptana.org/tools/studio/plugin/update/studio/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Дараах команд нь төсөл болон application үүсгэнэ.&lt;/p&gt;
+&lt;p&gt;Төсөл үүсгэх команд:&lt;/p&gt;
+&lt;p&gt;python django-admin.py startproject  project_name
+Application үүсгэх команд:&lt;/p&gt;
+&lt;p&gt;Python django-admin.py startapp app_name&lt;/p&gt;
+</summary><category term="python"></category><category term="Django"></category></entry></feed>

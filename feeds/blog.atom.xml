@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Erdenezaya's note</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2012-10-16T14:09:00+02:00</updated><entry><title>Github дээрээ блогоо байршууллаа</title><link href="/2012/10/github-deeree-blogoo-bairshuullaa.html" rel="alternate"></link><updated>2012-10-16T14:09:00+02:00</updated><author><name>Erdenezaya.B</name></author><id>tag:,2012-10-16:2012/10/github-deeree-blogoo-bairshuullaa.html</id><summary type="html">&lt;p&gt;Блогоо анхааралгүй нэлээн удлаа. Гоё дизайнтай болж байгаад засч тавина гэж хойшлуулсаар байтал өнөөдрийг хүрлээ.
+За тэгээд ямар дизайнтай байх уу гээд бодож бодож эцэст нь зүгээр л энгийн нэгэн статик блогтой
+болхоор шийдлээ хэхэ. Энгийн зүйл л хүмүүст хүрдэг гэж ... Энэ статик блог надад таалагдаж байгаа юм.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Давуу талууд:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ямар нэгэн CMS -ээс хамааралгүй.&lt;/li&gt;
+&lt;li&gt;Local дээрээ ажиллуулаад л блогоо хүссэнээрээ өөрчлөөд байж болно.&lt;/li&gt;
+&lt;li&gt;Хүссэн форматаараа бичнэ.&lt;/li&gt;
+&lt;li&gt;Хамгийн гоё нь блогоо command line -аар хөтлөнө. хэхэ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Би статик блогтой болох санаагаа &lt;a class="reference external" href="http://itblog.gmb.mn/"&gt;эндээс&lt;/a&gt; авсын.
+Энэ блогийн эзнийг танихгүй хүн ховор байлгүйдээ...:D. Баярлалаа &lt;a class="reference external" href="http://itblog.gmb.mn/"&gt;gmunkhbaatar&lt;/a&gt;
+Энэ хүн статик блогоо &lt;a class="reference external" href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; дээр хийсэн байгаан
+би харин ruby биш python дээр суурилсан &lt;a class="reference external" href="http://docs.getpelican.com/en/3.0/"&gt;Pelican&lt;/a&gt; -ийг сонгож авлаа.&lt;/p&gt;
+&lt;p&gt;Иймэрхүү төрлийн хэд хэдэн програмууд байна. Та бүхэн сонголтоо хүссэнээрээ хийгээрэй.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docs.getpelican.com/en/3.0/"&gt;Pelican&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://bitbucket.org/jek/blatter/"&gt;Blatter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.blogofile.com/"&gt;Blogofile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/dz/chisel"&gt;Chisel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/lakshmivyas/hyde"&gt;Hyde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://markdoc.org/"&gt;Markdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://nanoc.stoneship.org/"&gt;Nanoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://inky.github.com/pilcrow/"&gt;Pilcrow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://sphinx.pocoo.org/"&gt;Sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;програмууд байдаг юм байна. :D&lt;/p&gt;
+&lt;p&gt;За ингээд миний статик блогтой болсон түүхтэй танилцсан та бүхэнд баярлалаа. Амжилт!!!&lt;/p&gt;
+</summary><category term="blog"></category><category term="static blog"></category></entry></feed>

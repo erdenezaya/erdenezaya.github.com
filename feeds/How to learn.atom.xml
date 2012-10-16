@@ -9,7 +9,7 @@
 &lt;li&gt;Хүссэн форматаараа бичнэ.&lt;/li&gt;
 &lt;li&gt;Хамгийн гоё нь блогоо command line -аар хөтлөнө. хэхэ&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Би статик блогтой болох санаагаа &lt;a class="reference external" href="http://itblog.gmb.mn/"&gt;эндээс&lt;/a&gt; авсын.
+&lt;p&gt;Би статик блогтой болох санаагаа &lt;a class="reference external" href="http://itblog.gmb.mn/2012/09/github-pages-as-blog/"&gt;эндээс&lt;/a&gt; авсын.
 Энэ блогийн эзнийг танихгүй хүн ховор байлгүйдээ...:D. Баярлалаа &lt;a class="reference external" href="http://itblog.gmb.mn/"&gt;gmunkhbaatar&lt;/a&gt;
 Энэ хүн статик блогоо &lt;a class="reference external" href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt; дээр хийсэн байгаан
 би харин ruby биш python дээр суурилсан &lt;a class="reference external" href="http://docs.getpelican.com/en/3.0/"&gt;Pelican&lt;/a&gt; -ийг сонгож авлаа.&lt;/p&gt;
